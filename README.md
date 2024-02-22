@@ -24,6 +24,7 @@ I am a highly motivated and enthusiastic individual with a passion for programmi
 ```python
 def greet(name):
     print("Hello, " + name + "!")
+```
 ## 6. Work Experience
 - **Project: Online Store**
   - Description: Developed an e-commerce website using React and Node.js.
