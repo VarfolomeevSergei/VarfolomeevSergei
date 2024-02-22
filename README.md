@@ -1,6 +1,6 @@
 # Curriculum Vitae
 
-![Photo](link_to_your_photo)
+![Photo](https://sun9-71.userapi.com/impg/hkXCD7QJuLU0MYjjOTw9QHtL_sRdvliCUk62Mw/JesDHn7n8yQ.jpg?size=735x727&quality=96&sign=f250e0de8413e45c229bcd21195d1cda&type=album)
 
 ## 1. Name
 John Smith
