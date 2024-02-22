@@ -9,6 +9,7 @@ Varfolomeev Searhei
 - Phone: +375441234570
 - Email: example@gamil.com
 - Contacts: [telegram](https://t.me/sf)
+- [GitHub](https://VarfolomeevSergei.github.io/gh-pages/cv)
 
 ## 3. About Me
 I am a highly motivated and enthusiastic individual with a passion for programming and a strong desire to learn and explore new technologies. My goal is to contribute to innovative projects and collaborate with talented teams to create impactful solutions. I have a solid foundation in programming and enjoy tackling complex problems. Although I am currently lacking professional experience, I am dedicated to continuous learning and self-improvement.
