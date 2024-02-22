@@ -1,24 +1,23 @@
 # Curriculum Vitae
 
-![Photo](https://sun9-71.userapi.com/impg/hkXCD7QJuLU0MYjjOTw9QHtL_sRdvliCUk62Mw/JesDHn7n8yQ.jpg?size=735x727&quality=96&sign=f250e0de8413e45c229bcd21195d1cda&type=album)
+![Photo](https://sun9-29.userapi.com/impg/IeKmyIzkpQSOOqnKhFOxml6QV8KjR17rxeSXKw/RoyoFBd-gg8.jpg?size=539x544&quality=96&sign=5dba8605670b0f850247ace221597a0d&type=album)
 
 ## 1. Name
-John Smith
+Varfolomeev Searhei
 
 ## 2. Contact Information
-- Phone: 123-456-7890
-- Email: johnsmith@example.com
-- LinkedIn: [John Smith](https://www.linkedin.com/in/johnsmith)
-- GitHub: [johnsmith](https://github.com/johnsmith)
+- Phone: +375441234570
+- Email: example@gamil.com
+- Contacts: [telegram](https://t.me/sf)
 
 ## 3. About Me
 I am a highly motivated and enthusiastic individual with a passion for programming and a strong desire to learn and explore new technologies. My goal is to contribute to innovative projects and collaborate with talented teams to create impactful solutions. I have a solid foundation in programming and enjoy tackling complex problems. Although I am currently lacking professional experience, I am dedicated to continuous learning and self-improvement.
 
 ## 4. Skills
-- Programming Languages: Python, Java, C++
-- Web Development: HTML/CSS, JavaScript, React
+- Programming Languages: Java, C#
+- Web Development: HTML/CSS, JavaScript
 - Version Control: Git
-- Development Tools: Visual Studio Code, Eclipse, IntelliJ IDEA
+- Development Tools: Visual Studio Code, IntelliJ IDEA
 
 ## 5. Code Examples
 ```python
@@ -45,4 +44,3 @@ Participated in a language exchange program with native English speakers.
 
 ---
 
-Это ваше CV в разметке Markdown. Вы можете использовать его, добавлять свою информацию и настраивать его по своему усмотрению.
