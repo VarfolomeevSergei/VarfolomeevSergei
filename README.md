@@ -1,62 +1,47 @@
-# Мое Резюме
+# Curriculum Vitae
 
-## Информация о мне
+![Photo](link_to_your_photo)
 
-**Имя:** Иван Иванов
-**Email:** ivan@example.com
-**Телефон:** 123-456-7890
+## 1. Name
+John Smith
 
-## Образование
+## 2. Contact Information
+- Phone: 123-456-7890
+- Email: johnsmith@example.com
+- LinkedIn: [John Smith](https://www.linkedin.com/in/johnsmith)
+- GitHub: [johnsmith](https://github.com/johnsmith)
 
-### Бакалавр компьютерных наук
-**Университет:** Примерный университет
-**Год окончания:** 2020
+## 3. About Me
+I am a highly motivated and enthusiastic individual with a passion for programming and a strong desire to learn and explore new technologies. My goal is to contribute to innovative projects and collaborate with talented teams to create impactful solutions. I have a solid foundation in programming and enjoy tackling complex problems. Although I am currently lacking professional experience, I am dedicated to continuous learning and self-improvement.
 
-## Опыт работы
+## 4. Skills
+- Programming Languages: Python, Java, C++
+- Web Development: HTML/CSS, JavaScript, React
+- Version Control: Git
+- Development Tools: Visual Studio Code, Eclipse, IntelliJ IDEA
 
-### Разработчик программного обеспечения
-**Компания:** Примерная компания
-**Годы работы:** 2020-2022
+## 5. Code Examples
+```python
+def greet(name):
+    print("Hello, " + name + "!")
+## 6. Work Experience
+- **Project: Online Store**
+  - Description: Developed an e-commerce website using React and Node.js.
+  - GitHub: [Online Store](https://github.com/johnsmith/online-store)
 
-- Разработка и тестирование программного обеспечения.
-- Участие в командных проектах.
-- Работа с клиентами для определения требований.
+- **Project: Employee Management System**
+  - Description: Built a Java-based application to manage employee records.
+  - GitHub: [Employee Management System](https://github.com/johnsmith/employee-management)
 
-### Веб-разработчик
-**Компания:** Еще одна компания
-**Годы работы:** 2018-2020
+## 7. Courses and Training
+- Introduction to Python Programming - Coursera
+- Web Development Bootcamp - Udemy
+- Java Fundamentals - Codecademy
 
-- Разработка и поддержка веб-приложений.
-- Верстка и стилизация сайтов.
-- Оптимизация производительности и доступности.
-
-## Навыки
-
-- C++
-- Java
-- HTML/CSS
-- JavaScript
-- Python
-
-## Проекты
-
-### Проект 1
-**Описание:** Краткое описание проекта 1.
-
-### Проект 2
-**Описание:** Краткое описание проекта 2.
-
-## Сертификаты
-
-- Сертификат по Java программированию.
-- Сертификат по веб-разработке.
-
-## Рекомендации
-
-**Имя:** Анна Сидорова
-**Должность:** Технический директор
-**Email:** anna@example.com
+## 8. English Language
+Fluent in written and spoken English.
+Participated in a language exchange program with native English speakers.
 
 ---
 
-Это пример базового шаблона резюме на языке Markdown. Вы можете использовать его как отправную точку и настроить его согласно вашим потребностям и содержанию резюме.
+Это ваше CV в разметке Markdown. Вы можете использовать его, добавлять свою информацию и настраивать его по своему усмотрению.
